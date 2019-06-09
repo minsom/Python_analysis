@@ -20,7 +20,7 @@ A Python script([PyBank/main.py](PyBank/main.py)) that analyzes the financial re
   ```
 
 
-# 2. Poll Data
+# 2. Election Data
 ![Vote-Counting](Images/Vote_counting.jpg)
 
 A Python script([PyPoll/main.py](PyPoll/main.py)) that analyzes a set of poll data([votes](PyPoll/Resources/election_data.csv)) and calculates each of the following:
