@@ -1,5 +1,6 @@
 # 1. Financial Data
 ![Revenue](Images/revenue-per-lead.jpg)
+
 A Python script([PyBank/main.py](PyBank/main.py)) that analyzes the financial records([budget](PyBank/Resources/budget_data.csv)) of a selected company to calculate each of the following:
   * The total number of months included in the dataset
   * The net total amount of "Profit/Losses" over the entire period
@@ -21,6 +22,7 @@ A Python script([PyBank/main.py](PyBank/main.py)) that analyzes the financial re
 
 # 2. Poll Data
 ![Vote-Counting](Images/Vote_counting.jpg)
+
 A Python script([PyPoll/main.py](PyPoll/main.py)) that analyzes a set of poll data([votes](PyPoll/Resources/election_data.csv)) and calculates each of the following:
   * A complete list of candidates who received votes
   * The percentage of votes each candidate won
